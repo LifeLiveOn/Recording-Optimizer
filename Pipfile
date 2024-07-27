@@ -7,9 +7,13 @@ name = "pypi"
 flask = "*"
 groq = "*"
 python-dotenv = "*"
+gunicorn = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.12"
 python_full_version = "3.12.0"
+
+
+
