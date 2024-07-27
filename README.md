@@ -1,7 +1,7 @@
 # VocalScribe
 
 VocalScribe is a web application designed to let users record their "prototype speech" for practice or essay writing. Instead of typing, users can speak, making the process quicker and more efficient.
-
+https://recording-optimizer-production.up.railway.app/
 ## Features
 
 - Record speech and convert it to text.
